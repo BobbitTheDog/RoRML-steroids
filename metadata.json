@@ -1,6 +1,6 @@
 {
     "name": "Steroids",
-    "description": "",
+    "description": "Adds a single item, which boosts your max hp by a hefty percentage, but at a cost: you become dependent on the item, and will soon lose all you gained if you don't pick up another.",
 	"internalname": "steroids",
     "version": "0.1.0",
     "author": "BobbitTheDog",
